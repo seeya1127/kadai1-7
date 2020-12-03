@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  height: 400px;
+  width: 100%;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.title {
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+}
+
+.webcamp {
+  border-bottom: solid 1px silver;
+  padding: 50px 0 30px 0;
+}
+
+.webcamp-pro {
+  border-bottom: solid 1px silver;
+  padding:30px 0 30px 0;
+}
+
+.webcamp-woman {
+  border-bottom: solid 1px silver;
+  padding: 30px 0 30px 0;
+}
+
+.webcamp-career {
+  border-bottom: solid 1px silver;
+  padding: 30px 0 30px 0;
+}
+
