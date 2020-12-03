@@ -14,10 +14,13 @@
 
 .title {
   padding: 20px;
+  color: silver;
 }
 
 main {
   width: 840px;
+  margin: 0 auto;
+  color: silver;
 }
 
 .webcamp {
